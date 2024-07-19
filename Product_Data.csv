@@ -1,0 +1,105 @@
+prod,Material,Size,Color,Gender,Wears,Price,Description
+t-shirt,Cotton,"S, M, L, XL",White,Unisex,Casual,$20,Soft and breathable cotton tee for everyday wear.
+jeans,Denim,28-38,Blue,Men,Casual,$50,Stylish slim fit jeans with a classic blue wash.
+dress,Chiffon,"S, M, L",Floral Print,Women,Casual,$45,Lightweight floral dress perfect for summer days.
+jacket,Leather,"S, M, L, XL",Black,Men,Casual,$150,"Sleek black leather jacket for a cool, edgy look."
+shoes,Mesh,"S, M, L, XL",Red,Unisex,Sports,$60,Breathable mesh running shoes with great support.
+scarf,Wool,One Size,Grey,Unisex,Winter,$25,Cozy woolen scarf to keep you warm in winter.
+polo shirt,Cotton,"S, M, L, XL",Navy,Men,Casual,$30,Classic navy striped polo shirt for a smart casual look.
+dress,Silk,"S, M, L",Red,Women,Formal,$70,Elegant silk maxi dress perfect for formal events.
+sweatshirt,Cotton Blend,"S, M, L, XL",Grey,Unisex,Casual,$40,Comfortable grey hooded sweatshirt for everyday wear.
+pant,Cotton,28-38,Khaki,Men,Casual,$35,Durable khaki cargo pants with multiple pockets.
+boot,Leather,"S, M, L, XL",Brown,Women,Casual,$80,Stylish brown leather ankle boots with a comfortable fit.
+shorts,Polyester,"S, M, L, XL",Blue,Men,Swimwear,$25,Quick-dry swim trunks perfect for the beach.
+dress,Polyester,"S, M, L",Black,Women,Evening Wear,$50,Classic little black dress for an elegant evening look.
+pant,Spandex,"S, M, L, XL",Black,Women,Sports,$30,Flexible and comfortable yoga pants for any workout.
+hat,Cotton,One Size,Red,Unisex,Casual,$15,Casual red baseball cap with adjustable strap.
+coat,Wool Blend,"S, M, L, XL",Black,Men,Winter,$120,Warm and stylish black winter coat for cold days.
+pajama,Satin,"S, M, L",Pink,Women,Sleepwear,$40,Luxurious satin pajamas for a comfortable night's sleep.
+jacket,Denim,"S, M, L, XL",Blue,Unisex,Casual,$60,Classic blue denim jacket for a trendy casual look.
+hat,Straw,One Size,Beige,Women,Summer,$20,Stylish straw sun hat perfect for sunny days.
+suit,Wool,38-44,Grey,Men,Formal,$200,Elegant grey business suit for professional settings.
+dress,Sequins,"S, M, L",Gold,Women,Party Wear,$100,Eye-catching gold sequin dress for a night out.
+boot,Leather,"S, M, L, XL",Brown,Unisex,Outdoor,$90,Durable and comfortable hiking boots for outdoor adventures.
+shirt,Linen,"S, M, L, XL",White,Men,Casual,$35,Breathable white linen shirt perfect for summer.
+blazer,Cotton Blend,"S, M, L, XL",Navy,Women,Formal,$70,Stylish navy blazer for a professional look.
+jacket,Polyester,"S, M, L, XL",Red,Unisex,Winter,$150,Insulated red ski jacket for winter sports.
+shorts,Cotton,28-38,Beige,Men,Casual,$25,Comfortable beige shorts perfect for summer.
+gown,Silk,"S, M, L",Black,Women,Formal,$150,Elegant black silk evening gown for special occasions.
+t-shirt,Cotton,"S, M, L, XL",White,Unisex,Casual,$20,Trendy white tee with a unique graphic print.
+coat,Cotton,"S, M, L, XL",Beige,Women,Casual,$100,Classic beige trench coat for a timeless look.
+legging,Spandex,"S, M, L, XL",Black,Women,Sports,$30,Comfortable black leggings for fitness enthusiasts.
+belt,Leather,"S, M, L, XL",Brown,Unisex,Casual,$25,Durable brown leather belt with a classic design.
+sneakers,Canvas,"S, M, L, XL",White,Unisex,Casual,$40,Comfortable white canvas sneakers for everyday wear.
+glove,Wool,"S, M, L",Black,Unisex,Winter,$20,Warm black wool gloves for cold winter days.
+dress,Satin,"S, M, L",Red,Women,Party Wear,$80,Stunning red satin cocktail dress for evening events.
+dress,Cotton,"S, M, L",Navy,Women,Casual,$40,Casual navy polo dress with a classic look.
+wallet,Leather,One Size,Black,Unisex,Everyday,$35,Sleek black leather wallet with multiple compartments.
+jacket,Nylon,"S, M, L, XL",Green,Men,Casual,$60,Trendy green bomber jacket for a casual look.
+skirt,Cotton,"S, M, L",Floral Print,Women,Casual,$35,Comfortable floral maxi skirt for a boho-chic style.
+boot,Leather,"S, M, L, XL",Black,Women,Winter,$90,Warm black leather winter boots with fur lining.
+hoodie,Cotton Blend,"S, M, L, XL",Grey,Unisex,Casual,$45,Comfortable grey hoodie with a unique graphic print.
+dress,Cotton,"S, M, L",Yellow,Women,Casual,$40,Bright yellow summer dress perfect for sunny days.
+pant,Cotton,28-38,Khaki,Men,Casual,$35,Comfortable khaki pants for everyday wear.
+cardigan,Wool,"S, M, L, XL",Grey,Women,Casual,$50,Cozy grey wool cardigan for layering.
+shorts,Polyester,"S, M, L, XL",Black,Unisex,Sports,$25,Lightweight black running shorts with moisture-wicking fabric.
+coat,Wool Blend,"S, M, L, XL",Navy,Men,Winter,$120,Classic navy peacoat for a stylish winter look.
+blouse,Lace,"S, M, L",White,Women,Casual,$35,Elegant white lace blouse perfect for casual occasions.
+jacket,Polyester,"S, M, L, XL",Blue,Unisex,Sports,$50,Comfortable blue track jacket for workouts or casual wear.
+pant,Cotton,"S, M, L, XL",Black,Women,Casual,$30,Stylish black capri pants perfect for casual outings.
+shirt,Cotton,15-18,White,Men,Formal,$40,Crisp white dress shirt for formal or business settings.
+robe,Satin,"S, M, L",Purple,Women,Sleepwear,$50,Luxurious purple satin robe for relaxing at home.
+ceramic dinner set,Ceramic,16-piece,White,Kitchen,Dinnerware,$80,Elegant white ceramic dinner set for family meals.
+stainless steel pan,Stainless Steel,12-inch,Silver,Kitchen,Cookware,$35,Durable stainless steel pan perfect for cooking.
+cotton bath towel,Cotton,"27""x54""",Blue,Bathroom,Towels,$25,Soft and absorbent blue cotton bath towels.
+wooden cutting board,Wood,"18""x12""",Brown,Kitchen,Cutting Board,$20,Sturdy wooden cutting board for everyday use.
+memory foam pillow,Memory Foam,Standard,White,Bedroom,Pillow,$30,Comfortable memory foam pillow for a good night's sleep.
+glass vase,Glass,10-inch,Clear,Living Room,Decor,$15,Elegant clear glass vase for flowers.
+ironing board,Metal/Cotton,"54""x15""",White/Blue,Laundry,Ironing Board,$40,Sturdy ironing board with a cotton cover.
+led desk Lamp,Plastic,16-inch,Black,Office,Lighting,$25,Adjustable LED desk lamp with multiple brightness levels.
+wool area rug,Wool,5'x7',Grey,Living Room,Rugs,$100,Cozy grey wool area rug to enhance your living space.
+non-stick frying pan,Non-Stick,10-inch,Black,Kitchen,Cookware,$25,Easy-to-clean non-stick frying pan for quick meals.
+bamboo shoe rack,Bamboo,3-tier,Natural,Entryway,Furniture,$40,Stylish bamboo shoe rack to keep your shoes organized.
+plastic storage bin,Plastic,20-gallon,Clear,Storage,Containers,$20,Durable plastic storage bins for organizing your items.
+cotton bed sheet,Cotton,Queen,White,Bedroom,Bedding,$50,Soft and breathable white cotton bed sheets for comfort.
+ceramic coffee mug,Ceramic,12 oz,Black,Kitchen,Drinkware,$10,Classic black ceramic coffee mug for your morning brew.
+stainless steel kettle,Stainless Steel,2-liter,Silver,Kitchen,Appliances,$30,Fast-boiling stainless steel kettle for hot beverages.
+wooden bookshelf,Wood,5-shelf,Brown,Living Room,Furniture,$70,Spacious wooden bookshelf for organizing your books.
+plastic laundry basket,Plastic,2-bushel,White,Laundry,Storage,$15,Lightweight plastic laundry basket for easy transport.
+cotton tablecloth,Cotton,"60""x84""",Red,Dining Room,Table Linen,$20,Elegant red cotton tablecloth for special occasions.
+non-slip bath mat,Rubber,"20""x32""",Grey,Bathroom,Mat,$15,Safe and comfortable non-slip bath mat for your bathroom.
+stainless steel trash can,Stainless Steel,13-gallon,Silver,Kitchen,Waste Management,$50,Sleek stainless steel trash can with a foot pedal.
+cotton dish towel,Cotton,"12""x12""",White/Blue,Kitchen,Towels,$15,Absorbent cotton dish towels for kitchen use.
+stainless steel toaster,Stainless Steel,4-slice,Silver,Kitchen,Appliances,$40,Efficient stainless steel toaster with multiple settings.
+wooden spice rack,Wood,3-tier,Brown,Kitchen,Storage,$25,Compact wooden spice rack to organize your spices.
+glass baking dish,Glass,"9""x13""",Clear,Kitchen,Cookware,$20,Versatile glass baking dish for casseroles and more.
+memory foam mattress,Memory Foam,Queen,White,Bedroom,Bedding,$300,Comfortable memory foam mattress for restful sleep.
+cotton throw blanket,Cotton,"50""x60""",Grey,Living Room,Blankets,$30,Soft cotton throw blanket for cozy evenings.
+stainless steel mixing bowl,Stainless Steel,3-piece set,Silver,Kitchen,Cookware,$30,Durable stainless steel mixing bowls in various sizes.
+wooden coffee table,Wood,"40""x20""x18""",Brown,Living Room,Furniture,$150,Stylish wooden coffee table for your living room.
+ceramic floor vase,Ceramic,24-inch,White,Living Room,Decor,$50,Elegant white ceramic floor vase for large floral arrangements.
+cotton oven mitt,Cotton,One Size,Red,Kitchen,Gloves,$10,Heat-resistant cotton oven mitts for safe handling.
+plastic food container,Plastic,20-piece set,Clear,Kitchen,Storage,$25,Versatile plastic food containers with lids for storage.
+bamboo bath mat,Bamboo,"24""x17""",Natural,Bathroom,Mat,$30,Stylish and durable bamboo bath mat for your bathroom.
+cotton curtain,Cotton,"84""x50""",White,Bedroom,Window Coverings,$40,Light-filtering white cotton curtains for a fresh look.
+stainless steel knife set,Stainless Steel,15-piece set,Silver,Kitchen,Cookware,$50,Complete stainless steel knife set with a wooden block.
+wooden hanger,Wood,Standard,Natural,Closet,Hangers,$20,Durable wooden hangers for your wardrobe.
+cotton duvet cover,Cotton,Queen,White,Bedroom,Bedding,$50,Soft and breathable white cotton duvet cover.
+silicone baking mat,Silicone,2-pack,Red/White,Kitchen,Cookware,$15,Non-stick silicone baking mats for easy cleanup.
+glass storage jar,Glass,3-piece set,Clear,Kitchen,Storage,$25,Airtight glass storage jars for pantry items.
+ceramic planter,Ceramic,3-piece set,White,Living Room,Decor,$30,Stylish white ceramic planters for indoor plants.
+wool throw pillow,Wool,"18""x18""",Grey,Living Room,Decor,$20,Cozy grey wool throw pillow for comfort and style.
+plastic laundry hamper,Plastic,30-gallon,White,Laundry,Storage,$25,Large plastic laundry hamper with a lid.
+cotton apron,Cotton,One Size,Blue,Kitchen,Apparel,$20,Durable blue cotton apron for cooking and baking.
+wooden nightstand,Wood,"20""x15""x25""",Brown,Bedroom,Furniture,$70,Classic wooden nightstand with a drawer and shelf.
+stainless steel sink strainer,Stainless Steel,Standard,Silver,Kitchen,Accessory,$10,Effective stainless steel sink strainer to catch debris.
+bamboo dish rack,Bamboo,Foldable,Natural,Kitchen,Storage,$20,Space-saving bamboo dish rack for drying dishes.
+cotton bathrobe,Cotton,One Size,White,Bathroom,Apparel,$40,Luxurious white cotton bathrobe for post-shower comfort.
+ceramic baking sheet,Ceramic,"11""x17""",White,Kitchen,Cookware,$30,Durable ceramic baking sheet for even heat distribution.
+metal bookshelf,Metal,5-shelf,Black,Office,Furniture,$80,Sturdy black metal bookshelf for organizing your books.
+plastic shower caddy,Plastic,3-tier,Clear,Bathroom,Storage,$15,Convenient plastic shower caddy for organizing toiletries.
+wool rug runner,Wool,2.5'x8',Beige,Hallway,Rugs,$70,Elegant beige wool rug runner for your hallway.
+ t-shirt,Cotton,"S, M, L, XL",Black,Unisex,Casual,$25,Retro-style graphic tee with a comfortable fit.
+ t-shirt,Polyester,"S, M, L, XL",Blue,Unisex,Activewear,$30,Lightweight and moisture-wicking tee for sports activities.
+ t-shirt,Organic Cotton,"S, M, L, XL",Green,Unisex,Casual,$28,Sustainable and eco-friendly tee made from organic cotton.
+ t-shirt,Cotton,"S, M, L, XL",Gray,Unisex,Casual,$22,Classic V-neck tee with a soft and comfortable feel.
